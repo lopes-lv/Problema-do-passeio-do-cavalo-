@@ -40,9 +40,3 @@ O desenvolvimento foi dividido em três etapas principais, cada uma introduzindo
 
 * **Linguagem:** Python 3.x
 * **Módulos Nativos:** `random` (V2) e `time` (V3).
-
-## 💻 Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/tour-do-cavalo.git
